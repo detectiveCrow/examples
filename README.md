@@ -1,4 +1,4 @@
-## Project Templates
+## Project Examples
 
 ### Contents
 
